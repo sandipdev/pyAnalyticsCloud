@@ -1,1 +1,1 @@
-python first.py
+python analyticscloud/uploader.py
